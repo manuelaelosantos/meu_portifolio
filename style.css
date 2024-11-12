@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200..800&display=swap');
+
+:root {
+  --cor-principal: rgb(255, 255, 255);
+  --cor-secundaria: white;
+  --cor-destaque: black;
+}
+
+body {
+  font-family: 'Changa', sans-serif;
+}
+
+h1, h2, h5 {
+  color: var (--cor-secundaria);
+  font-weigth: 700;
+}
+
+footer a {
+  color: var(--cor-principal);
+}
+
+footer a: hover {
+  color var (--cor destaque)
+}
